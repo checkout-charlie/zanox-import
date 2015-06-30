@@ -1,0 +1,19 @@
+{
+    "name": "sparwelt-zanox-import",
+    "description": "Import for zanox.",
+    "author": "Pawel Graczyk <Pawel.Graczyk@sparwelt.com>",
+    "dependencies": {
+        "crypto": "0.0.3",
+        "querystring": "0.2.0",
+        "hat": "0.0.3",
+        "moment": "2.10.2",
+        "sprintf-js": "1.0.2",
+        "underscore": "1.8.3",
+        "winston": "1.0.0"
+    },
+    "engine": "node >= 0.12.2",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sparwelt/zanox-import.git"
+    }
+}
