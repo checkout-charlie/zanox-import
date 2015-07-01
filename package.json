@@ -1,5 +1,6 @@
 {
     "name": "sparwelt-zanox-import",
+    "version": "0.1.0",
     "description": "Import for zanox.",
     "author": "Pawel Graczyk <Pawel.Graczyk@sparwelt.com>",
     "dependencies": {
