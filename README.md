@@ -39,4 +39,5 @@ zanoxImport.fetch("sales", "2015-03-10", function(err, result) {
     }
 
     console.log(result)
+})
 ```
