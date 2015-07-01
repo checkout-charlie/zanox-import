@@ -12,12 +12,12 @@ Current version does not provide full functionality. Implemented endpoints:
 # Installation
 
 Installation can be made by cloning git repository:
-```
+```bash
 https://github.com/sparwelt/zanox-import
 ```
 
 Or by using npm manager:
-```
+```bash
 npm install sparwelt-zanox-import
 ```
 
@@ -26,7 +26,7 @@ It is advised to use node version 0.12.2 or later.
 # Usage
 
 Import works in scope of one day. Example below imports all *sales* for day 2015-03-10.
-```
+```js
 var ZanoxImport = require("./lib/ZanoxImport.js")
 
 var connectId = "<ZANOX API CONNECT ID HERE>"
